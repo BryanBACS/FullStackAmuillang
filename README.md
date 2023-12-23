@@ -17,4 +17,6 @@ group 13
 
 - Use "npm install" in the cliente and Backend folder.
 - Then use "npm start" in the cliente and Backend folder.
+:arrow_right: cliente: localhost:3000
+:arrow_right: Backend: localhost:8090
 
