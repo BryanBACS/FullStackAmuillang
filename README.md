@@ -11,3 +11,10 @@ Web page of the software engineering II branch for the Amuillang foundation. Val
 The Fullstack system has functionalities such as secure access, professional management, patient management and scheduling. In addition, the website is developed in React for the FrontEnd and MongoDB for the Backend.
 
 group 13
+
+
+### --- Installation ---
+
+- Use "npm install" in the cliente and Backend folder.
+- Then use "npm start" in the cliente and Backend folder.
+
